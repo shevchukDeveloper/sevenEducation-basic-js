@@ -1,5 +1,7 @@
 'use strict';
-
+    let userName = prompt("Введіть ім'я");
+    let userSecondName = prompt("Введіть прізвище");
+    let userAge = prompt("Введіть ваш вік");
 document.write(`
 <div class="wrapper">
       <header class="header">header 800*200</header>
