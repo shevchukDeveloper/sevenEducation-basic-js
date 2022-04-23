@@ -1,0 +1,15 @@
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+    border: 2px solid magenta;
+    margin: 8px;
+}
+body {
+    width: 100%;
+    margin: 0 auto;
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
